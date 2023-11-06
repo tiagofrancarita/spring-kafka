@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: br.com.franca.kfka.KfkaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.15 s <<< FAILURE! - in br.com.franca.kfka.KfkaApplicationTests
+contextLoads  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'findAddressByZipCodeAdapter': Unsatisfied dependency expressed through field 'findAddressByZipCodeClient'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'br.com.franca.kfka.adapter.out.client.FindAddressByZipCodeClient': Unexpected exception during bean creation; nested exception is java.lang.NoClassDefFoundError: org/springframework/aot/AotDetector
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'br.com.franca.kfka.adapter.out.client.FindAddressByZipCodeClient': Unexpected exception during bean creation; nested exception is java.lang.NoClassDefFoundError: org/springframework/aot/AotDetector
+Caused by: java.lang.NoClassDefFoundError: org/springframework/aot/AotDetector
+Caused by: java.lang.ClassNotFoundException: org.springframework.aot.AotDetector
+
