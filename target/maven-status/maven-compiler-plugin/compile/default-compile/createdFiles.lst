@@ -1,0 +1,14 @@
+br\com\franca\kfka\adapter\out\InsertCustomerAdapter.class
+br\com\franca\kfka\application\core\usecase\InsertCustomerUseCase.class
+br\com\franca\kfka\adapter\out\repository\entity\CustomerEntity.class
+br\com\franca\kfka\application\core\domain\Customer.class
+br\com\franca\kfka\application\ports\out\FindAdressByZipCodeOutputPort.class
+br\com\franca\kfka\adapter\out\client\FindAddressByZipCodeClient.class
+br\com\franca\kfka\adapter\out\client\response\AddressResponse.class
+br\com\franca\kfka\adapter\out\repository\entity\AddressEntity.class
+br\com\franca\kfka\KfkaApplication.class
+br\com\franca\kfka\adapter\out\client\mapper\AddressResponseMapper.class
+br\com\franca\kfka\adapter\out\repository\CustomerRespository.class
+br\com\franca\kfka\application\ports\out\InsertCustomerOutputPort.class
+br\com\franca\kfka\application\core\domain\Address.class
+br\com\franca\kfka\adapter\out\FindAddressByZipCodeAdapter.class

@@ -1,0 +1,14 @@
+G:\Repositorios\spring-kafka\src\main\java\br\com\franca\kfka\adapter\out\repository\entity\AddressEntity.java
+G:\Repositorios\spring-kafka\src\main\java\br\com\franca\kfka\adapter\out\InsertCustomerAdapter.java
+G:\Repositorios\spring-kafka\src\main\java\br\com\franca\kfka\application\core\usecase\InsertCustomerUseCase.java
+G:\Repositorios\spring-kafka\src\main\java\br\com\franca\kfka\adapter\out\client\mapper\AddressResponseMapper.java
+G:\Repositorios\spring-kafka\src\main\java\br\com\franca\kfka\adapter\out\client\response\AddressResponse.java
+G:\Repositorios\spring-kafka\src\main\java\br\com\franca\kfka\adapter\out\repository\entity\CustomerEntity.java
+G:\Repositorios\spring-kafka\src\main\java\br\com\franca\kfka\application\core\domain\Address.java
+G:\Repositorios\spring-kafka\src\main\java\br\com\franca\kfka\application\ports\out\InsertCustomerOutputPort.java
+G:\Repositorios\spring-kafka\src\main\java\br\com\franca\kfka\application\core\domain\Customer.java
+G:\Repositorios\spring-kafka\src\main\java\br\com\franca\kfka\adapter\out\repository\CustomerRespository.java
+G:\Repositorios\spring-kafka\src\main\java\br\com\franca\kfka\application\ports\out\FindAdressByZipCodeOutputPort.java
+G:\Repositorios\spring-kafka\src\main\java\br\com\franca\kfka\adapter\out\client\FindAddressByZipCodeClient.java
+G:\Repositorios\spring-kafka\src\main\java\br\com\franca\kfka\KfkaApplication.java
+G:\Repositorios\spring-kafka\src\main\java\br\com\franca\kfka\adapter\out\FindAddressByZipCodeAdapter.java
